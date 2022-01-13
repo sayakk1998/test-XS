@@ -7,7 +7,7 @@ class Sum
         int b = 7;
 
         sum = a + b;
-        System.out.println("SUM: "+sum);
+        System.out.println("Sum of "+a+"+"+b+" is: "+sum);
 
     }
 }
